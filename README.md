@@ -41,16 +41,27 @@ CREDITS:
 Many thanks to the internet!
 
 Artwork from 
+
     - http://opengameart.org
+    
 Sounds from
+
     - http://www.freesound.org
+    
     - http://noproblo.dayjo.org/ZeldaSounds/
+    
 Music from
+
     - The White Album - The Beatles
+    
     - Sonic The Hedgehog
+    
 Code templates and snippets from 
+
     - Keenan's Platformer Example
+    
     - StackOverflow
+    
     
     
 Requires Pygame.
